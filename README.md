@@ -5,6 +5,12 @@
 * [Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png)
 * [Link to student stuff](./student.ipynb#Stuff)
 
+Blog Url (optional)
+
+Video Url
+
+[Slideshow url](presentation.pdf)
+
 # What is a README?
 * .md means 'markdown' and it's a filetype that indicates markdown formatting
 * this is similar to a .html that indicates html markup formatting
@@ -39,7 +45,7 @@ do this in terminal
 
 `jupyter nbconvert --to markdown <file>.ipynb`
 
-<!---
+
 ```python
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -56,7 +62,7 @@ y = np.random.randint(10, 20, 9)
 plt.scatter(x, y)
 plt.show()
 ```
---->
+
 
 ![png](README_files/README_9_0.png)
 
